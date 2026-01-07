@@ -1,8 +1,8 @@
 title,authors,journal,date,methodology,field,empirical_approach
-The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon,Juliano Assuncao; Others,The Economic Journal,2020,Econometrics,Econometrics; Public,Descriptive/Observational
-Tipping and the Dynamics of Segregation,David Card; Alexandre Mas; Jesse Rothstein,QJE,2008,Empirical; Econometrics,Public,Regression Discontinuity
-Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities,Ted Miguel; Michael Kremer,Econometrica,2003,Econometrics; Empirical,Development; Public,RCT
-Knocking It Down and Mixing It Up: The Impact of Public Housing Regenerations,Hector Blanco; Lorenzo Neri,ReStat,2025,Econometrics; Empirical,Public; Labor,Descriptive/Observational
-U.S. Monetary Policy and the Global Financial Cycle,Silvia Miranda-Agrippino; Helene Rey,ReStud,2020,Econometrics; Empirical,Finance; Macro,Descriptive/Observational
-Harvesting Differences-in-Differences and Event-Study Evidence,Alberto Abadie; Joshua Angrist; Brigham Frandsen; Jörn-Steffen Pischke,NBER,2025,Econometrics,Econometrics,Other
+The Effect of Rural Credit on Deforestation: Evidence from the Brazilian Amazon,Juliano Assuncao; Others,The Economic Journal,2020,Econometrics,Public,Other
+Tipping and the Dynamics of Segregation,David Card; Alexandre Mas; Jesse Rothstein,QJE,2008,Econometrics,Public,Regression Discontinuity
+Worms: Identifying Impacts on Education and Health in the Presence of Treatment Externalities,Ted Miguel; Michael Kremer,Econometrica,2003,Econometrics,Development; Public,RCT
+Knocking It Down and Mixing It Up: The Impact of Public Housing Regenerations,Hector Blanco; Lorenzo Neri,ReStat,2025,Econometrics,Public; Labor,Descriptive/Observational
+U.S. Monetary Policy and the Global Financial Cycle,Silvia Miranda-Agrippino; Helene Rey,ReStud,2020,Econometrics; Empirical,Macro; Finance,Other
+Harvesting Differences-in-Differences and Event-Study Evidence,Alberto Abadie; Joshua Angrist; Brigham Frandsen; Jörn-Steffen Pischke,NBER,2025,Econometrics,Econometrics,Event Study
 Psychology and Economics: Evidence from the Field,Stefano DellaVigna,JEL,2009,Empirical,Behavioral,Other

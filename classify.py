@@ -79,9 +79,9 @@ def call_groq(prompt):
         except requests.RequestException as e: # Network or other request errors
             print(f"Error calling Groq: {e}")
             return {
-                "methodology": ["Empirical"],
-                "field": ["Public"],
-                "empirical_approach": ["Descriptive/Observational"]
+                "methodology": ["Error"],
+                "field": ["Error"],
+                "empirical_approach": ["Error"]
             }
 
 

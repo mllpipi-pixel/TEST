@@ -1,4 +1,4 @@
-# Coding-Test-for-Prof.-DellaVigna
+# Coding-Test-for-Prof-DellaVigna
 This project classifies papers using the Groq API. For each paper, it extracts text from PDFs, queries Groq to determine methodology, field, and empirical approach, and outputs the results as a CSV.
 
 ## Setup Instructions

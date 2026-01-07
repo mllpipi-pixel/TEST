@@ -1,5 +1,5 @@
 import csv  # For writing CSV output
-from classify4 import classify_paper  # Import classification functions
+from classify import classify_paper  # Import classification functions
 from papers import papers  # Import list of papers
 
 output = []  # List to store processed rows
